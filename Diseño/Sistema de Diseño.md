@@ -29,5 +29,8 @@ Tú construyes, los demas consumen.
 Tú diriges varios equipos.
 ## Modelo Confederado
 Como varios centralizados.
+
+> [!tip] Tip
+> Diagramas y mas diagramas. Sobre todo de flujos.
 # Fundations
 # Componentes
