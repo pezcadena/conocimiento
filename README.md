@@ -1,0 +1,2 @@
+# conocimiento
+Cosas que sé
