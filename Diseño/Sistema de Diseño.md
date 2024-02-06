@@ -31,6 +31,7 @@ Tú diriges varios equipos.
 Como varios centralizados.
 
 > [!tip] Tip
-> Diagramas y mas diagramas. Sobre todo de flujos.
+> Diagramas y mas diagramas. Sobre todo de flujos. 
+> [coople.com]() para los diagramas
 # Fundations
 # Componentes
