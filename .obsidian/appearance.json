@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Tokyo Night"
+  "cssTheme": "Tokyo Night",
+  "nativeMenus": true,
+  "translucency": true
 }

@@ -1,7 +1,8 @@
 # Principios
 - Accesibilidad
-- Perceptible
-- Operable
+- Consistencia
+- Reusable
+- Shareable
 - 
 # Sistema
 # Fundations
