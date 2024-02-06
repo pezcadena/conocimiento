@@ -13,6 +13,21 @@
 # Sistema
 Hay niveles.
 Un equipo que hace el producto.
-
+## Design workflow
+1. Desing
+2. Document
+3. Deploy
+4. Test
+5. Iteration
+Tenemos que tener un sistema de evaluación del sistema.
+Conoce a tu usario.
+## Building desing system
+Construir herramientas para que otros puedan hacer lo que quieres hacer.
+## Modelo solitario
+Tú construyes, los demas consumen.
+## Modelo centralizado
+Tú diriges varios equipos.
+## Modelo Confederado
+Como varios centralizados.
 # Fundations
 # Componentes
