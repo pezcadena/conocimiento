@@ -11,11 +11,14 @@
             "id": "fb6e261632d5b5b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Diseño/Sistema de Diseño.md",
-                "mode": "preview",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Diseño/Sistema de Diseño.md",
+            "file": "Untitled.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Diseño/Sistema de Diseño.md",
+            "file": "Untitled.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +117,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Diseño/Sistema de Diseño.md"
+            "file": "Untitled.canvas"
           }
         }
       },
@@ -141,8 +144,9 @@
   },
   "active": "fb6e261632d5b5b8",
   "lastOpenFiles": [
-    "README.md",
+    "Untitled.canvas",
     "Diseño/Sistema de Diseño.md",
+    "README.md",
     "Diseño"
   ]
 }
