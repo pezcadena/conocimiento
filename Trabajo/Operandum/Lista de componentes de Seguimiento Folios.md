@@ -1,4 +1,3 @@
-prueba cel
 > [!info]
 > Todos los componentes se conectaran al ``state`` principal para evitar el uso de ``inputs``.
 
