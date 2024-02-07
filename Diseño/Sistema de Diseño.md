@@ -1,3 +1,4 @@
+#diseño #platzi 
 # Principios
 - Accesibilidad
 - Consistencia
