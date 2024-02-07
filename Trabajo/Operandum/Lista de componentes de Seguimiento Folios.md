@@ -76,6 +76,11 @@
 	- Costo de mano de obra (No Par-Torque)
 	- (Nuevo) Componente del campo para subir el certificado de verificación (No batería ni barra).
 	- Fecha verificación (Solo verificaciones).
+## Entrega Interna Formulario
+- Aqui el formulario es tan pequeño que con la vista es suficiente, solo sería verificar que todos los campos ya sean componentes.
+---
+## Entrega Final
+- 
 # Par-Torque
 ## Recepción
 - ``RecepcionVerificacionCard``.
