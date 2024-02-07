@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "b90c1f8b216baf74",
+    "id": "8aaf50ff9ccfdcc8",
     "type": "split",
     "children": [
       {
-        "id": "72de9432705fd513",
+        "id": "56bbf8735efd89a2",
         "type": "tabs",
         "children": [
           {
-            "id": "e34cc28495febcb3",
+            "id": "fb6e261632d5b5b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Diseño/Sistema de Diseño.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ea706286b3f2245e",
+    "id": "dc2e3aa98ef59547",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "74ac4bec094c392c",
+        "id": "3c37c04e7505616f",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +39,7 @@
         }
       },
       {
-        "id": "f966f9596dd91cb3",
+        "id": "e202ee396f234e9a",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "c05655752f921fba",
+        "id": "33e2bc57df0d2115",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "id": "6055b71cd15b09bc",
+        "id": "66a2715c02b6a1b2",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "f7880f9a73fca48c",
+    "id": "b3e9f2d92ff7bc95",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2b9c35ef9a88dd81",
+        "id": "0f37a01265f8761f",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Diseño/Sistema de Diseño.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,28 +97,37 @@
         }
       },
       {
-        "id": "4fb71525f4d45aa5",
+        "id": "2dcc0b75baa90cdc",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Diseño/Sistema de Diseño.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "e3d9200826f7b333",
+        "id": "614c3aa4297c2eaa",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Diseño/Sistema de Diseño.md"
           }
         }
+      },
+      {
+        "id": "09a6549b4ea2e614",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
-    ]
+    ],
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -130,10 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e34cc28495febcb3",
+  "active": "fb6e261632d5b5b8",
   "lastOpenFiles": [
-    "Diseño/Sistema de Diseño.md",
     "README.md",
+    "Diseño/Sistema de Diseño.md",
     "Diseño"
   ]
 }
