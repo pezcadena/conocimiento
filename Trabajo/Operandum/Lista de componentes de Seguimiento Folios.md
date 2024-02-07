@@ -58,6 +58,11 @@
 - (Nuevo) Componente de los mensajes de información al usuario.
 - `RefaccionesModulo`
 ---
+## Reparación (Servicio)
+- `BackToBotton`.
+- `DetallesFolio` (refactorizar).
+- (Nuevo) Información de las fallas. (En servicio no se muestra)
+- `Comments`.
 
 # Par-Torque
 ## Recepción
@@ -74,6 +79,9 @@
 - `FolioGaleriaFotos`.
 ## Diagnóstico Formulario
 - `FotosField`.
+---
+## Reparación
+- `FolioGaleriaFotos`.
 # Electrónica Industrial
 ## Diagnóstico Formulario
 - (Nuevo) Modal para elegir el proceso siguiente.
