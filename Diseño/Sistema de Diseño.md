@@ -30,8 +30,7 @@ Tú diriges varios equipos.
 ## Modelo Confederado
 Como varios centralizados.
 
-> [!tip] Tip
-> Diagramas y mas diagramas. Sobre todo de flujos. 
-> [coople.com]() para los diagramas
+> [!tip]
+> Diagramas y mas diagramas. Sobre todo de flujos. coople.com para los diagramas
 # Fundations
 # Componentes
