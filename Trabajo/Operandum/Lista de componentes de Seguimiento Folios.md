@@ -67,3 +67,5 @@
 ## Diagnóstico Formulario
 - `FotosField`.
 # Electrónica Industrial
+## Diagnóstico Formulario
+- (Nuevo) Modal para elegir el proceso siguiente.
