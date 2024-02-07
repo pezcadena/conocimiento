@@ -47,8 +47,9 @@
 - (Nuevo) Formulario de fechas del proceso.
 - `Checklist`.
 - (Nuevo) Componente del campo del MFU.
-- `Preguntas Diagno`
-
+- `PreguntasDiagnostico`.
+- `PruebasDiagnostico`.
+- `Comments`.
 ---
 # Par-Torque
 ## Recepción
@@ -63,4 +64,6 @@
 ---
 ## Diagnóstico
 - `FolioGaleriaFotos`.
+## Diagnóstico Formulario
+- `FotosField`.
 # Electrónica Industrial
