@@ -34,7 +34,11 @@
 - `Comments`.
 ## Diagnóstico
 - `BackToBotton`.
-- 
+- `DetallesFolio` (refactorizar).
+- `ChecklistDisplay.`
+	- MFU (Par-Torque)
+- (Nuevo) Preguntas del diagnóstico.
+- (Nuevo) Pruebas del diagnóstico.
 # Par-Torque
 ## Recepción
 - ``RecepcionVerificacionCard``.
