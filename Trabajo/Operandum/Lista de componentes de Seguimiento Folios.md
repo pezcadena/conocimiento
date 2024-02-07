@@ -1,3 +1,7 @@
+
+> [!info]
+> Todos los componentes se conectaran al ``state`` principal para evitar el uso de ``inputs``.
+
 # Todos
 ## Recepción
 - (Nuevo) Información básica del folio.
@@ -19,11 +23,19 @@
 - (Nuevo) Formulario de las observaciones.
 	- Accesorios (No es servicio).
 ## Inspección
-
+- `BackToBotton`
+- `DetallesFolio` (refactorizar)
+- `ChecklistDisplay`
+- `Comments`
+## Inspección Formulario
+- 
 
 # Par-Torque
 ## Recepción
 - ``RecepcionVerificacionCard``
 ## Recepción Formulario
 - (Nuevo) Formulario del historial especifico de la verificación.
+## Inspección
+- `BackToBotton`
+- `FolioGaleriaFotos`
 # Electrónica Industrial

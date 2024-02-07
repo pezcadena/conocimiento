@@ -11,11 +11,14 @@
             "id": "22e02f6e8a57a6e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
-                "mode": "source",
-                "source": false
+                "file": "Trabajo/Operandum/Notas/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
+                "file": "Trabajo/Operandum/Notas/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
+                "file": "Trabajo/Operandum/Notas/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md"
+                "file": "Trabajo/Operandum/Notas/Untitled.canvas"
               }
             }
           },
@@ -156,8 +159,11 @@
   },
   "active": "22e02f6e8a57a6e1",
   "lastOpenFiles": [
-    "Trabajo/Operandum/Componentes.canvas",
     "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
+    "Trabajo/Operandum/Notas/Untitled.canvas",
+    "Trabajo/Operandum/2024-02-07.md",
+    "Trabajo/Operandum/Notas",
+    "Trabajo/Operandum/Componentes.canvas",
     "Trabajo/Operandum",
     "Front-End/Angular.md",
     "Trabajo",
