@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Diseño/Sistema de Diseño.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
