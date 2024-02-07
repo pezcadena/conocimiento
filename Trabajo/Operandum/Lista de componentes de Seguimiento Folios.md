@@ -62,7 +62,12 @@
 - `DetallesFolio` (refactorizar).
 - (Nuevo) Información de las fallas. (En servicio no se muestra)
 - `Comments`.
-
+## Reparación Formulario (Servicio Formulario)
+- `BackToBotton`.
+- (Nuevo) Formulario de fechas del proceso.
+- (Nuevo) Formulario de las fallas (En servicio no se muestra).
+	- (Nuevo) Incluye componente del modal de la falla.
+- `Comments`.
 # Par-Torque
 ## Recepción
 - ``RecepcionVerificacionCard``.
@@ -81,6 +86,8 @@
 ---
 ## Reparación
 - `FolioGaleriaFotos`.
+## Reparación Formulario
+- `FotosField`.
 # Electrónica Industrial
 ## Diagnóstico Formulario
 - (Nuevo) Modal para elegir el proceso siguiente.
