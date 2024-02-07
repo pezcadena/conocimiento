@@ -52,6 +52,12 @@
 - `Comments`.
 ---
 ## Refacciones
+> [!info]
+> Este proceso como tal no tendría una versión "formulario" porque el componente `RefaccionesModulo` se encarga de manejar cada refacción de manera individual.
+- `BackToBotton`.
+- (Nuevo) Componente de los mensajes de información al usuario.
+- `RefaccionesModulo`
+---
 
 # Par-Torque
 ## Recepción
