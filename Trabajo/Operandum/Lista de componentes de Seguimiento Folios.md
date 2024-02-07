@@ -1,6 +1,5 @@
 > [!info]
 > Todos los componentes se conectaran al ``state`` principal para evitar el uso de ``inputs``.
-
 # Todos
 ## Recepción
 - (Nuevo) Información básica del folio.
@@ -80,7 +79,11 @@
 - Aqui el formulario es tan pequeño que con la vista es suficiente, solo sería verificar que todos los campos ya sean componentes.
 ---
 ## Entrega Final
-- 
+- `BackToBotton`.
+- `DetallesFolio` (refactorizar).
+## Entrega Final Formulario
+- Aqui el formulario es tan pequeño que con la vista es suficiente, solo sería verificar que todos los campos ya sean componentes.
+---
 # Par-Torque
 ## Recepción
 - ``RecepcionVerificacionCard``.
@@ -101,6 +104,10 @@
 - `FolioGaleriaFotos`.
 ## Reparación Formulario
 - `FotosField`.
+---
+## Entrega Final
+- ``RecepcionVerificacionCard``.
+---
 # Electrónica Industrial
 ## Diagnóstico Formulario
 - (Nuevo) Modal para elegir el proceso siguiente.
