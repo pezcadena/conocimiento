@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22e02f6e8a57a6e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-End/Angular.md",
+                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-End/Angular.md",
+                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-End/Angular.md"
+                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md"
               }
             }
           },
@@ -167,10 +179,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82ff9b6bfbd28c42",
+  "active": "22e02f6e8a57a6e1",
   "lastOpenFiles": [
-    "Diseño/Sistema de Diseño.md",
+    "Trabajo/Operandum/Componentes.canvas",
+    "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
+    "Trabajo/Operandum",
     "Front-End/Angular.md",
+    "Trabajo",
+    "Diseño/Sistema de Diseño.md",
     "README.md",
     "Front-End",
     "coople.com.md",
