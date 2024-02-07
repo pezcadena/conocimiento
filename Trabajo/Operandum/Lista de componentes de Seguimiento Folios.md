@@ -68,6 +68,14 @@
 - (Nuevo) Formulario de las fallas (En servicio no se muestra).
 	- (Nuevo) Incluye componente del modal de la falla.
 - `Comments`.
+---
+## Entrega Interna
+- `BackToBotton`.
+- (Nuevo) Información de la entrega interna.
+- (Nuevo) Modal del formulario para finalizar el folio.
+	- Costo de mano de obra (No Par-Torque)
+	- (Nuevo) Componente del campo para subir el certificado de verificación (No batería ni barra).
+	- Fecha verificación (Solo verificaciones).
 # Par-Torque
 ## Recepción
 - ``RecepcionVerificacionCard``.
@@ -91,3 +99,9 @@
 # Electrónica Industrial
 ## Diagnóstico Formulario
 - (Nuevo) Modal para elegir el proceso siguiente.
+--- 
+## Reparación Externa
+- (Nuevo) Información del archivo.
+## Reparación Externa Formulario
+- (Nuevo) Componente del campo para subir un archivo.
+- (Nuevo) Componente del campo del comentario del archivo.
