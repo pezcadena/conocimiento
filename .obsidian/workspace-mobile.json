@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "56bbf8735efd89a2",
+        "id": "bc621027fe4957a9",
         "type": "tabs",
         "children": [
           {
-            "id": "fb6e261632d5b5b8",
+            "id": "c3c79129682b3fa7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Untitled.canvas"
-          }
+          "state": {}
         }
       },
       {
@@ -142,8 +131,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb6e261632d5b5b8",
+  "active": "c3c79129682b3fa7",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2024-02-06.md",
     "Untitled.canvas",
     "Diseño/Sistema de Diseño.md",
     "README.md",
