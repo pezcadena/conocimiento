@@ -11,14 +11,11 @@
             "id": "22e02f6e8a57a6e1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Trabajo/Operandum/Notas/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabajo/Operandum/Notas/Untitled.canvas",
+                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabajo/Operandum/Notas/Untitled.canvas",
+                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabajo/Operandum/Notas/Untitled.canvas"
+                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md"
               }
             }
           },
@@ -159,8 +156,11 @@
   },
   "active": "22e02f6e8a57a6e1",
   "lastOpenFiles": [
+    "Trabajo/Operandum/Notas/Mapa de Notas.canvas",
+    "Trabajo/Operandum/Notas/2024-02-07.md",
+    "2024-02-07.md",
+    "Untitled.md",
     "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
-    "Trabajo/Operandum/Notas/Untitled.canvas",
     "Trabajo/Operandum/2024-02-07.md",
     "Trabajo/Operandum/Notas",
     "Trabajo/Operandum/Componentes.canvas",

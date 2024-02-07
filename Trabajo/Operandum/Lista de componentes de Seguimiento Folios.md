@@ -23,19 +23,27 @@
 - (Nuevo) Formulario de las observaciones.
 	- Accesorios (No es servicio).
 ## Inspección
-- `BackToBotton`
-- `DetallesFolio` (refactorizar)
-- `ChecklistDisplay`
-- `Comments`
+- `BackToBotton`.
+- `DetallesFolio` (refactorizar).
+- `ChecklistDisplay.`
+- `Comments`.
 ## Inspección Formulario
+- `BackToBotton`.
+- (Nuevo) Formulario de fechas del proceso.
+- `Checklist`.
+- `Comments`.
+## Diagnóstico
+- `BackToBotton`.
 - 
-
 # Par-Torque
 ## Recepción
-- ``RecepcionVerificacionCard``
+- ``RecepcionVerificacionCard``.
 ## Recepción Formulario
 - (Nuevo) Formulario del historial especifico de la verificación.
 ## Inspección
-- `BackToBotton`
-- `FolioGaleriaFotos`
+- `FolioGaleriaFotos`.
+## Inspección Formulario
+- `FotosField`.
+## Diagnóstico
+- `FolioGaleriaFotos`.
 # Electrónica Industrial
