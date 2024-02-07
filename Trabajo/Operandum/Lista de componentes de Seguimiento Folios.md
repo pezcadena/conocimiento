@@ -22,6 +22,7 @@
 	- Línea, Operación, Husillo (Par-Torque).
 - (Nuevo) Formulario de las observaciones.
 	- Accesorios (No es servicio).
+---
 ## Inspección
 - `BackToBotton`.
 - `DetallesFolio` (refactorizar).
@@ -32,6 +33,7 @@
 - (Nuevo) Formulario de fechas del proceso.
 - `Checklist`.
 - `Comments`.
+---
 ## Diagnóstico
 - `BackToBotton`.
 - `DetallesFolio` (refactorizar).
@@ -39,15 +41,26 @@
 	- MFU (Par-Torque)
 - (Nuevo) Preguntas del diagnóstico.
 - (Nuevo) Pruebas del diagnóstico.
+- `Comments`.
+## Diagnóstico Formulario
+- `BackToBotton`.
+- (Nuevo) Formulario de fechas del proceso.
+- `Checklist`.
+- (Nuevo) Componente del campo del MFU.
+- `Preguntas Diagno`
+
+---
 # Par-Torque
 ## Recepción
 - ``RecepcionVerificacionCard``.
 ## Recepción Formulario
 - (Nuevo) Formulario del historial especifico de la verificación.
+---
 ## Inspección
 - `FolioGaleriaFotos`.
 ## Inspección Formulario
 - `FotosField`.
+---
 ## Diagnóstico
 - `FolioGaleriaFotos`.
 # Electrónica Industrial
