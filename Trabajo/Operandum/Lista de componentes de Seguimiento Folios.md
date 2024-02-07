@@ -18,6 +18,9 @@
 	- Línea, Operación, Husillo (Par-Torque).
 - (Nuevo) Formulario de las observaciones.
 	- Accesorios (No es servicio).
+## Inspección
+
+
 # Par-Torque
 ## Recepción
 - ``RecepcionVerificacionCard``
