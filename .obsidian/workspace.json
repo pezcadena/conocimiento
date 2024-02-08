@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
+                "file": "Universidad/PP.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
+                "file": "Universidad/PP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
+                "file": "Universidad/PP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md"
+                "file": "Universidad/PP.md"
               }
             }
           },
@@ -156,11 +156,13 @@
   },
   "active": "22e02f6e8a57a6e1",
   "lastOpenFiles": [
+    "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
+    "Universidad/PP.md",
+    "Universidad",
     "Trabajo/Operandum/Notas/Mapa de Notas.canvas",
     "Trabajo/Operandum/Notas/2024-02-07.md",
     "2024-02-07.md",
     "Untitled.md",
-    "Trabajo/Operandum/Lista de componentes de Seguimiento Folios.md",
     "Trabajo/Operandum/2024-02-07.md",
     "Trabajo/Operandum/Notas",
     "Trabajo/Operandum/Componentes.canvas",
