@@ -1,5 +1,6 @@
 > [!info]
 > Todos los componentes se conectaran al ``state`` principal para evitar el uso de ``inputs``.
+
 # Todos
 ## Recepción
 - (Nuevo) Información básica del folio.
@@ -61,29 +62,7 @@
 - `DetallesFolio` (refactorizar).
 - (Nuevo) Información de las fallas. (En servicio no se muestra)
 - `Comments`.
-## Reparación Formulario (Servicio Formulario)
-- `BackToBotton`.
-- (Nuevo) Formulario de fechas del proceso.
-- (Nuevo) Formulario de las fallas (En servicio no se muestra).
-	- (Nuevo) Incluye componente del modal de la falla.
-- `Comments`.
----
-## Entrega Interna
-- `BackToBotton`.
-- (Nuevo) Información de la entrega interna.
-- (Nuevo) Modal del formulario para finalizar el folio.
-	- Costo de mano de obra (No Par-Torque)
-	- (Nuevo) Componente del campo para subir el certificado de verificación (No batería ni barra).
-	- Fecha verificación (Solo verificaciones).
-## Entrega Interna Formulario
-- Aqui el formulario es tan pequeño que con la vista es suficiente, solo sería verificar que todos los campos ya sean componentes.
----
-## Entrega Final
-- `BackToBotton`.
-- `DetallesFolio` (refactorizar).
-## Entrega Final Formulario
-- Aqui el formulario es tan pequeño que con la vista es suficiente, solo sería verificar que todos los campos ya sean componentes.
----
+
 # Par-Torque
 ## Recepción
 - ``RecepcionVerificacionCard``.
@@ -102,18 +81,6 @@
 ---
 ## Reparación
 - `FolioGaleriaFotos`.
-## Reparación Formulario
-- `FotosField`.
----
-## Entrega Final
-- ``RecepcionVerificacionCard``.
----
 # Electrónica Industrial
 ## Diagnóstico Formulario
 - (Nuevo) Modal para elegir el proceso siguiente.
---- 
-## Reparación Externa
-- (Nuevo) Información del archivo.
-## Reparación Externa Formulario
-- (Nuevo) Componente del campo para subir un archivo.
-- (Nuevo) Componente del campo del comentario del archivo.
