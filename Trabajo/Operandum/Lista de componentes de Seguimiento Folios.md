@@ -117,3 +117,4 @@
 ## Reparación Externa Formulario
 - (Nuevo) Componente del campo para subir un archivo.
 - (Nuevo) Componente del campo del comentario del archivo.
+![[Pasted image 20240208154834.png]]
