@@ -37,3 +37,5 @@ Como varios centralizados.
 # Componentes
 # Paradigmas
 - Procedural: Son elementos ya hechos que varia el resultado. Y que se construyen a si mismas.
+- Diseño atómico: Darle orden a los elementos.
+- Dry: Don't repeat yourself.
