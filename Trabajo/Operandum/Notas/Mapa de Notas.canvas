@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"19b3aa49b74955a8","type":"file","file":"Trabajo/Operandum/Notas/2024-02-07.md","x":-400,"y":-340,"width":400,"height":140},
-		{"id":"b9624ec0eeaa2629","x":-400,"y":-140,"width":400,"height":300,"type":"file","file":"Trabajo/Operandum/Notas/2024-02-09.md"}
+		{"id":"b9624ec0eeaa2629","x":-400,"y":-140,"width":400,"height":440,"type":"file","file":"Trabajo/Operandum/Notas/2024-02-09.md"}
 	],
 	"edges":[]
 }
