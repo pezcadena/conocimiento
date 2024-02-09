@@ -71,7 +71,7 @@
 ## Entrega Interna
 - `BackToBotton`.
 - (Nuevo) Información de la entrega interna.
-- (Nuevo) Modal del formulario para finalizar el folio.
+- (Nuevo) Modal del formulario para finalizar el folio (se harían dos, para separar lo de verificaciones). 
 	- Costo de mano de obra (No Par-Torque)
 	- (Nuevo) Componente del campo para subir el certificado de verificación (No batería ni barra).
 	- Fecha verificación (Solo verificaciones).
