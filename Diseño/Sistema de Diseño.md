@@ -56,3 +56,8 @@ Como varios centralizados.
 	- Estilo.
 	- Tono.
 ## Tipografía
+- Google fonts es tu amigo.
+### Ejemplo de documento de tipografía
+Tipografía: Montserrat.
+#### Tamaños y características
+H1 -z<
