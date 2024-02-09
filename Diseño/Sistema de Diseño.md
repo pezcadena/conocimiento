@@ -33,8 +33,15 @@ Como varios centralizados.
 
 > [!tip]
 > Diagramas y mas diagramas. Sobre todo de flujos. coople.com para los diagramas
-# Fundations
 # Componentes
+- Forma parte de un todo.
+- Cada pieza tienen una función.
+- Tiene entrada y salida.
+- Partes:
+	- Nombre.
+	- Descripción / Solución.
+	- Comportamiento.
+	- Estados.
 # Paradigmas
 - Procedural: Son elementos ya hechos que varia el resultado. Y que se construyen a si mismas.
 - Diseño atómico: Darle orden a los elementos.
