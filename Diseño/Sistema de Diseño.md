@@ -46,3 +46,10 @@ Como varios centralizados.
 - Procedural: Son elementos ya hechos que varia el resultado. Y que se construyen a si mismas.
 - Diseño atómico: Darle orden a los elementos.
 - Dry: Don't repeat yourself.
+# Foundations
+- Elementos configurables para hacer el diseño.
+- Tipos:
+	- Tipografía.
+	- Colores.
+	- Layout - spaces.
+	- 
