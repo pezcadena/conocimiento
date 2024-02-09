@@ -22,7 +22,7 @@ Un equipo que hace el producto.
 5. Iteration
 Tenemos que tener un sistema de evaluación del sistema.
 Conoce a tu usario.
-## Building desing system
+## Building design system
 Construir herramientas para que otros puedan hacer lo que quieres hacer.
 ## Modelo solitario
 Tú construyes, los demas consumen.
@@ -60,4 +60,10 @@ Como varios centralizados.
 ### Ejemplo de documento de tipografía
 Tipografía: Montserrat.
 #### Tamaños y características
-H1 -z<
+H1 -> bold -> 50px
+H2 -> bold -> 25px
+H3 -> bold -> 20px
+
+Párrafo -> normal -> 13px
+Small -> normal -> 10px
+Bold -> bold -> 13px
