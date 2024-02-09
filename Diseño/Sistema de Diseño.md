@@ -52,4 +52,7 @@ Como varios centralizados.
 	- Tipografía.
 	- Colores.
 	- Layout - spaces.
-	- 
+	- Iconografía.
+	- Estilo.
+	- Tono.
+## Tipografía
