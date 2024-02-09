@@ -35,3 +35,5 @@ Como varios centralizados.
 > Diagramas y mas diagramas. Sobre todo de flujos. coople.com para los diagramas
 # Fundations
 # Componentes
+# Paradigmas
+- Procedural: Son elementos ya hechos que varia el resultado. Y que se construyen a si mismas.
