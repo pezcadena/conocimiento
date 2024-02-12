@@ -13,4 +13,9 @@ Continuar con WordPress y solo hacer un mejor diseño del sitio y tal vez contra
 familiarizar con sitios afin
 comprar dominio a años
 facturar
+maquetar propuesta
 
+numero de programa: 
+
+requisitos
+- carrera: 
