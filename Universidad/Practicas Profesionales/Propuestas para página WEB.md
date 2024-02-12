@@ -8,3 +8,5 @@ El servicio recomendado es [Vercel](https://vercel.com/)
 Continuar con WordPress y solo hacer un mejor diseño del sitio y tal vez contratar un dominio.
 
 ## Otro servicio
+
+# Reunion 120224
