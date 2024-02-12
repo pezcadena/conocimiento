@@ -11,4 +11,6 @@ Continuar con WordPress y solo hacer un mejor diseño del sitio y tal vez contra
 
 # Reunion 120224
 familiarizar con sitios afin
+comprar dominio a años
+facturar
 
