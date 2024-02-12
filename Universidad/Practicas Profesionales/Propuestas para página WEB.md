@@ -15,7 +15,3 @@ comprar dominio a años
 facturar
 maquetar propuesta
 
-numero de programa: 
-
-requisitos
-- carrera: 
